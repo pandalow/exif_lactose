@@ -3,6 +3,8 @@
 A lightweight and beginner-friendly tool to extract and remove EXIF metadata from images — with a visual twist!
 This project is designed as a hands-on way to get familiar with Gradio interfaces and integrating map-based visualizations via Folium.
 
+demo websites: https://huggingface.co/spaces/pandalow/exif_lactose
+
 Upload an image → View its EXIF data (camera, date, GPS) → Remove EXIF metadata → Done!
 
 ![EXIF Demo](data/image.png)
