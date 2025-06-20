@@ -1,6 +1,5 @@
 import gradio as gr
 import folium
-import tempfile
 from piexif import ImageIFD
 from image_exif_tool import get_exif_meta_data, remove_metadata, get_gps
 
